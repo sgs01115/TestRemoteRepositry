@@ -2,6 +2,6 @@
 
 Hellow World!!
 
-I hate Git!!
+I hate GitHub...
 
-message_6
+message 7
